@@ -3,7 +3,7 @@ import pyaudio
 import json
 from vosk import Model, KaldiRecognizer
 
-model_path = "/home/preethi/vosk-model-en-in-0.5"
+model_path = "///"  # path of vosk model
 
 def recognize_speech():
     if not os.path.exists(model_path):
