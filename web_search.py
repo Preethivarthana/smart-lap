@@ -51,7 +51,7 @@ def play_spotify(song_name=None):
     
     else:
         # Play a specific playlist (Replace 'YOUR_PLAYLIST_ID' with actual ID)
-        playlist_uri = "spotify:playlist:https://open.spotify.com/playlist/37i9dQZF1EIUtYhOXKqLCG?si=0d5e9569f2834c4e"
+        playlist_uri = "....."  # playlist id
         os.system(f'spotify --uri "{playlist_uri}"')
         time.sleep(3)
         os.system("playerctl play")
