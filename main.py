@@ -16,8 +16,8 @@ from personalization import update_preferences, get_suggestions
 from reminder import add_reminder, save_note, get_notes, get_reminders
 
 # Load assistant's name
-NAME_FILE = "/home/preethi/SMART_LAP/assistant_name.txt"
-ICON_PATH = "/home/preethi/SMART_LAP/icon.png"  # ✅ Ensure correct icon path
+NAME_FILE = "///"  # path of file which contains the name of the assistant
+ICON_PATH = "///"  # path of icon ✅ Ensure correct icon path
 
 class SmartLap(QMainWindow):
     """Main Window for Smart Lap."""
