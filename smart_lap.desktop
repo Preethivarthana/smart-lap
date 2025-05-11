@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Smart Lap
-Exec=/home/preethi/SMART_LAP/smart_lap.sh
-Icon=/home/preethi/SMART_LAP/smart_lap_icon.png
+Exec= # path of .sh file
+Icon= # path of icon
 Type=Application
 Categories=Utility;
 Terminal=false
