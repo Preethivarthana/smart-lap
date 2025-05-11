@@ -4,7 +4,7 @@ import pyexcel_ods3
 
 def log_activity(command, action):
     """Logs command and action performed in a LibreOffice Calc file (log.ods)."""
-    log_file = "/home/preethi/SMART_LAP/log.ods"
+    log_file = "////"#path for log file with .ods extension
     sheet_name = "Activity Log"
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
