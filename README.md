@@ -19,13 +19,15 @@ Technologies Used:
 **2. Features/Functionalities**
 
 1.Voice Control: Control the system using voice commands (e.g., "Open YouTube", "Play music").
+
 2. Speech Recognition: Utilizes Vosk for offline voice recognition.
-3. Text-to-Speech: Reads text aloud using Festival.
-4. Web Search: Perform web searches and open websites using voice commands.
-5. Media Control: Play, pause, and manage media files like songs and videos.
-6. Real-Time Reminders & Notes: Create voice-based reminders and take voice notes.
-7. File Management: Open files and applications using voice commands.
-8. Customizable Assistant Name: You can customize the name of the assistant.
+3. Text-to-Speech: Reads text aloud using Festival. 
+4.
+5. Web Search: Perform web searches and open websites using voice commands.
+6. Media Control: Play, pause, and manage media files like songs and videos.
+7. Real-Time Reminders & Notes: Create voice-based reminders and take voice notes.
+8. File Management: Open files and applications using voice commands.
+9. Customizable Assistant Name: You can customize the name of the assistant.
 
 
 **3 :STEP-BY-STEP INSTALLATION PROCESS**
