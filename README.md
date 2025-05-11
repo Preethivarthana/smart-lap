@@ -2,6 +2,7 @@
 Smart Lap is a voice-controlled assistant for Linux Mint systems. It lets you open applications, manage files, play media, search the web, and get real-time updates using just your voice. Fully system-based, it ensures data privacy without cloud services. Lightweight, fast, and secure—Smart Lap makes Linux more interactive and hands-free.
 
 **1. Project Overview**
+
 Description:
 The Smart Lap project is a voice-controlled assistant designed for Linux systems, aiming to streamline daily tasks and enhance productivity. The assistant uses speech recognition to perform various tasks like opening files, managing applications, playing media, setting reminders, and providing real-time information like weather updates or news. Built with Python, it integrates tools like Vosk for offline speech recognition, Festival for text-to-speech, and Tkinter for the graphical interface.
 
