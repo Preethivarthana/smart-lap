@@ -9,33 +9,22 @@ The Smart Lap project is a voice-controlled assistant designed for Linux systems
 Technologies Used:
 
 Python: Core programming language.
-
 Vosk: Offline speech recognition model.
-
 Festival: Text-to-speech synthesis.
-
 Tkinter: GUI for user interaction.
-
 JSON: For handling log files and data operations.
-
 Cron: For scheduling tasks like reminders.
 
 
 **2. Features/Functionalities**
+
 Voice Control: Control the system using voice commands (e.g., "Open YouTube", "Play music").
-
 Speech Recognition: Utilizes Vosk for offline voice recognition.
-
 Text-to-Speech: Reads text aloud using Festival.
-
 Web Search: Perform web searches and open websites using voice commands.
-
 Media Control: Play, pause, and manage media files like songs and videos.
-
 Real-Time Reminders & Notes: Create voice-based reminders and take voice notes.
-
 File Management: Open files and applications using voice commands.
-
 Customizable Assistant Name: You can customize the name of the assistant.
 
 
@@ -135,14 +124,13 @@ Customizable Assistant Name: You can customize the name of the assistant.
 
 
 **4. Usage Instructions**
+
 Once you’ve installed Smart Lap, here’s how you can use it:
-
 Starting the Assistant:
-
 You can launch Smart Lap manually from the application menu or use the terminal:
-
+```
 gtk-launch smart_lap
-
+```
 
 Voice Commands:
 
@@ -170,18 +158,16 @@ Edit the assistant_name.txt file to change the name of your assistant.
 
 
 **5. Contributing**
+
 We welcome contributions to improve Smart Lap! To contribute:
-
 Fork the repository.
-
 Create a new branch for your feature or bug fix.
-
 Make your changes.
-
 Push your changes and create a pull request with a description of your changes.
 
 
 **6. Dependencies**
+
 To get started with Smart Lap, make sure you have the following dependencies installed:
 
 Vosk: For offline speech recognition.
