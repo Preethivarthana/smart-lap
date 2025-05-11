@@ -19,6 +19,7 @@ Technologies Used:
 **2. Features/Functionalities**
 
 1.Voice Control: Control the system using voice commands (e.g., "Open YouTube", "Play music").
+
 2. Speech Recognition: Utilizes Vosk for offline voice recognition.
 3. Text-to-Speech: Reads text aloud using Festival. 
 4. Web Search: Perform web searches and open websites using voice commands.
