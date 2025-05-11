@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Smart Lap
+Exec=/home/preethi/SMART_LAP/smart_lap.sh
+Icon=/home/preethi/SMART_LAP/smart_lap_icon.png
+Type=Application
+Categories=Utility;
+Terminal=false
+StartupNotify=true
