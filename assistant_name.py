@@ -3,7 +3,7 @@ import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton, QMessageBox
 
 # File to store the assistant's name
-NAME_FILE = "/home/preethi/SMART_LAP/assistant_name.txt"
+NAME_FILE = "Path for saving name of the assistant(txt file)"
 
 
 class NamingPage(QWidget):
